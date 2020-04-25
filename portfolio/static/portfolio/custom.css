@@ -14,13 +14,9 @@ body {
     font-size: 4rem;
 }
 
-#hometext{
-    font-size: 4rem;
-}
-
 @media (min-width: 992px) {
     #hometext {
-        font-size: 4rem;
+        font-size: 2rem;
     }
     #blogdetailtitle {
         font-size: 3rem;
