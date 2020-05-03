@@ -7,3 +7,4 @@
 .idea/vcs.xml
 venv/
 .idea/
+__pycache__/
